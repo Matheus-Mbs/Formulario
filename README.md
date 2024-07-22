@@ -12,4 +12,4 @@ R: Essas tags são utilizadas para a organização do documento e a parte inform
    
     Já o aside é uam tag utilizada para definir um conteudo alem daquele que foi colocado muito utilizado em barras laterais de um documento, glossário avisos, biografias entre outros.
 
-3. O elemento fieldset é utilizado para agrupar elementos parecido com labels dentro de um formulario web, ela é utilizada par adesenhar uma caixa (div) ao redor dos elementos relacionados.
+3. O elemento fieldset é utilizado para agrupar elementos parecido com labels dentro de um formulario web, ela é utilizada para desenhar uma caixa (div) ao redor dos elementos relacionados.
